@@ -1,0 +1,1 @@
+console.log('i am the app2.js');
